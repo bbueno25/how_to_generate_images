@@ -1,3 +1,6 @@
+"""
+DOCSTRING
+"""
 from keras import backend as K
 from keras import objectives
 from keras.datasets import mnist
